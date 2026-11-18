@@ -1,2 +1,1 @@
-# Young-s-Learning
-A repository records my progress.
+Don't read me!
